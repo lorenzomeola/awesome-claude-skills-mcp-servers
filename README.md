@@ -11,7 +11,7 @@
 ## Contents
 
 - [Claude Skills (109)](#claude-skills-109)
-- [MCP Servers (23)](#mcp-servers-23)
+- [MCP Servers (24)](#mcp-servers-24)
 - [Copilot Agents (30)](#copilot-agents-30)
 - [AI Workflows (6)](#ai-workflows-6)
 - [Cursor Rules (2)](#cursor-rules-2)
@@ -131,7 +131,7 @@
 - [Generative Media Skills](https://aiassetsdirectory.com/claude-skills/generative-media-skills) - A Core/Library collection of 41 SKILL.md recipes (cinematography, branding, product ads, UGC video) that drive 100+ image/video/audio models through the MuAPI backend, for Claude Code, Cursor, Gemini CLI and OpenCode. (`MIT`, [source](https://github.com/SamurAIGPT/Generative-Media-Skills))
 - [Magic Hour Image to Video](https://aiassetsdirectory.com/claude-skills/magic-hour-image-to-video) - Guides an agent through turning a photo into a short Magic Hour video, fixing the still frame first so identity, product and text stay intact before it spends credits on motion. (`MIT`, [source](https://github.com/magichourhq/skills/tree/main/skills/magic-hour-image-to-video))
 
-## MCP Servers (23)
+## MCP Servers (24)
 
 - [Awesome MCP Servers](https://aiassetsdirectory.com/mcp-servers/awesome-mcp-servers) - The largest community catalog of MCP servers: thousands of entries across dozens of categories (databases, browser automation, cloud, communication and more), tagged by language and scope. (`MIT`, verified, [source](https://github.com/punkpeye/awesome-mcp-servers))
 - [Context7](https://aiassetsdirectory.com/mcp-servers/context7-mcp) - Pulls updated, version-specific documentation and code examples straight from the source into your prompt, so agents stop citing outdated APIs or hallucinating ones that don't exist. (`MIT`, verified, [source](https://github.com/upstash/context7))
@@ -139,6 +139,7 @@
 - [GitHub MCP Server](https://aiassetsdirectory.com/mcp-servers/github-mcp-server) - GitHub's official MCP server, connecting AI agents directly to GitHub's platform to read repos, manage issues/PRs, analyze code and automate CI/CD workflows. (`MIT`, verified, [source](https://github.com/github/github-mcp-server))
 - [AWS MCP Servers](https://aiassetsdirectory.com/mcp-servers/aws-mcp-servers) - AWS Labs' official collection of 80+ MCP servers, one per AWS service area (documentation, IaC, databases, serverless, cost, observability), each installable independently via uvx or Docker. (`Apache-2.0`, verified, [source](https://github.com/awslabs/mcp))
 - [Cloudflare MCP Servers](https://aiassetsdirectory.com/mcp-servers/cloudflare-mcp-servers) - Cloudflare's own collection of remote, domain-specific MCP servers, covering Workers, DNS analytics, observability, Radar, browser rendering and more, each hosted at its own mcp.cloudflare.com subdomain. (`Apache-2.0`, verified, [source](https://github.com/cloudflare/mcp-server-cloudflare))
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) - Live data layer for data-center site selection: Data Center Power Index (DCPI) daily grid-power scores across 300+ markets, plus grid, fiber, gas and interconnection-queue data. 94 tools at https://dchub.cloud/mcp. (`MIT`)
 - [Supabase MCP Server](https://aiassetsdirectory.com/mcp-servers/supabase-mcp-server) - Supabase's official, remote MCP server for managing your projects, tables, database branches, config and queries, connected through OAuth with no local install required. (`Apache-2.0`, verified, [source](https://github.com/supabase/mcp))
 - [Qdrant MCP Server](https://aiassetsdirectory.com/mcp-servers/qdrant-mcp-server) - Qdrant's official MCP server, turning the Qdrant vector database into a semantic memory layer with two tools: store information and find it again by meaning instead of exact keywords. (`Apache-2.0`, verified, [source](https://github.com/qdrant/mcp-server-qdrant))
 - [Terraform MCP Server](https://aiassetsdirectory.com/mcp-servers/terraform-mcp-server) - HashiCorp's official MCP server for Terraform, giving agents direct access to the public Terraform Registry (providers, modules, policies) and to HCP Terraform / Terraform Enterprise workspaces. (`MPL-2.0`, verified, [source](https://github.com/hashicorp/terraform-mcp-server))
